@@ -6153,6 +6153,17 @@ eval("module.exports = __webpack_require__.p + \"img/get-promo-code-button-hover
 
 /***/ }),
 
+/***/ "./src/assets/media/pages/conclusion/rank1-icon.png":
+/*!**********************************************************!*\
+  !*** ./src/assets/media/pages/conclusion/rank1-icon.png ***!
+  \**********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/rank1-icon.bbc5b401.png\";\n\n//# sourceURL=webpack:///./src/assets/media/pages/conclusion/rank1-icon.png?");
+
+/***/ }),
+
 /***/ "./src/assets/media/pages/conclusion/rank1-icon.svg":
 /*!**********************************************************!*\
   !*** ./src/assets/media/pages/conclusion/rank1-icon.svg ***!
@@ -6161,6 +6172,17 @@ eval("module.exports = __webpack_require__.p + \"img/get-promo-code-button-hover
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"img/rank1-icon.88e5db05.svg\";\n\n//# sourceURL=webpack:///./src/assets/media/pages/conclusion/rank1-icon.svg?");
+
+/***/ }),
+
+/***/ "./src/assets/media/pages/conclusion/rank2-icon.png":
+/*!**********************************************************!*\
+  !*** ./src/assets/media/pages/conclusion/rank2-icon.png ***!
+  \**********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/rank2-icon.d97918b3.png\";\n\n//# sourceURL=webpack:///./src/assets/media/pages/conclusion/rank2-icon.png?");
 
 /***/ }),
 
@@ -6175,6 +6197,17 @@ eval("module.exports = __webpack_require__.p + \"img/rank2-icon.3c8824ad.svg\";\
 
 /***/ }),
 
+/***/ "./src/assets/media/pages/conclusion/rank3-icon.png":
+/*!**********************************************************!*\
+  !*** ./src/assets/media/pages/conclusion/rank3-icon.png ***!
+  \**********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/rank3-icon.a978f47e.png\";\n\n//# sourceURL=webpack:///./src/assets/media/pages/conclusion/rank3-icon.png?");
+
+/***/ }),
+
 /***/ "./src/assets/media/pages/conclusion/rank3-icon.svg":
 /*!**********************************************************!*\
   !*** ./src/assets/media/pages/conclusion/rank3-icon.svg ***!
@@ -6186,6 +6219,17 @@ eval("module.exports = __webpack_require__.p + \"img/rank3-icon.2bdcca78.svg\";\
 
 /***/ }),
 
+/***/ "./src/assets/media/pages/conclusion/rank4-icon.png":
+/*!**********************************************************!*\
+  !*** ./src/assets/media/pages/conclusion/rank4-icon.png ***!
+  \**********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/rank4-icon.ebf5005a.png\";\n\n//# sourceURL=webpack:///./src/assets/media/pages/conclusion/rank4-icon.png?");
+
+/***/ }),
+
 /***/ "./src/assets/media/pages/conclusion/rank4-icon.svg":
 /*!**********************************************************!*\
   !*** ./src/assets/media/pages/conclusion/rank4-icon.svg ***!
@@ -6194,6 +6238,17 @@ eval("module.exports = __webpack_require__.p + \"img/rank3-icon.2bdcca78.svg\";\
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"img/rank4-icon.67569843.svg\";\n\n//# sourceURL=webpack:///./src/assets/media/pages/conclusion/rank4-icon.svg?");
+
+/***/ }),
+
+/***/ "./src/assets/media/pages/conclusion/rank5-icon.png":
+/*!**********************************************************!*\
+  !*** ./src/assets/media/pages/conclusion/rank5-icon.png ***!
+  \**********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/rank5-icon.1369f87c.png\";\n\n//# sourceURL=webpack:///./src/assets/media/pages/conclusion/rank5-icon.png?");
 
 /***/ }),
 
@@ -10239,7 +10294,7 @@ eval("module.exports = JSON.parse(\"[{\\\"min\\\":0,\\\"max\\\":20,\\\"name\\\":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* eslint-disable global-require */\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  // share_url: `${process.env.VUE_APP_BASE_URL}`,\n  // rankImages: [\n  //   `${process.env.VUE_APP_BASE_URL}/${require('../assets/media/pages/conclusion/rank1-icon.svg')}`,\n  //   `${process.env.VUE_APP_BASE_URL}/${require('../assets/media/pages/conclusion/rank2-icon.svg')}`,\n  //   `${process.env.VUE_APP_BASE_URL}/${require('../assets/media/pages/conclusion/rank3-icon.svg')}`,\n  //   `${process.env.VUE_APP_BASE_URL}/${require('../assets/media/pages/conclusion/rank4-icon.svg')}`,\n  //   `${process.env.VUE_APP_BASE_URL}/${require('../assets/media/pages/conclusion/rank5-icon.svg')}`,\n  // ],\n  share_url: 'https://test1develop.github.io',\n  rankImages: ['https://test1develop.github.io/img/rank1-icon.png', 'https://test1develop.github.io/img/rank2-icon.png', 'https://test1develop.github.io/img/rank3-icon.png', 'https://test1develop.github.io/img/rank4-icon.png', 'https://test1develop.github.io/img/rank5-icon.png']\n});\n\n//# sourceURL=webpack:///./src/config/socials-sharing.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var core_js_modules_es_array_concat_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/es.array.concat.js */ \"./node_modules/core-js/modules/es.array.concat.js\");\n/* harmony import */ var core_js_modules_es_array_concat_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_array_concat_js__WEBPACK_IMPORTED_MODULE_0__);\n\n\n/* eslint-disable global-require */\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  share_url: \"\".concat(\"https://test1develop.github.io\"),\n  rankImages: [\"\".concat(\"https://test1develop.github.io\", \"/\").concat(__webpack_require__(/*! ../assets/media/pages/conclusion/rank1-icon.png */ \"./src/assets/media/pages/conclusion/rank1-icon.png\")), \"\".concat(\"https://test1develop.github.io\", \"/\").concat(__webpack_require__(/*! ../assets/media/pages/conclusion/rank2-icon.png */ \"./src/assets/media/pages/conclusion/rank2-icon.png\")), \"\".concat(\"https://test1develop.github.io\", \"/\").concat(__webpack_require__(/*! ../assets/media/pages/conclusion/rank3-icon.png */ \"./src/assets/media/pages/conclusion/rank3-icon.png\")), \"\".concat(\"https://test1develop.github.io\", \"/\").concat(__webpack_require__(/*! ../assets/media/pages/conclusion/rank4-icon.png */ \"./src/assets/media/pages/conclusion/rank4-icon.png\")), \"\".concat(\"https://test1develop.github.io\", \"/\").concat(__webpack_require__(/*! ../assets/media/pages/conclusion/rank5-icon.png */ \"./src/assets/media/pages/conclusion/rank5-icon.png\"))]\n});\n\n//# sourceURL=webpack:///./src/config/socials-sharing.js?");
 
 /***/ }),
 
@@ -10262,7 +10317,7 @@ eval("var map = {\n\t\"./ru/common.json\": \"./src/i18n/ru/common.json\",\n\t\".
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _Users_o_merguriev_USER_FILES_htdocs_git_qapint_com_vertex_ru_pharma_guru_client_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/defineProperty */ \"./node_modules/@babel/runtime/helpers/esm/defineProperty.js\");\n/* harmony import */ var core_js_modules_es_object_to_string_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! core-js/modules/es.object.to-string.js */ \"./node_modules/core-js/modules/es.object.to-string.js\");\n/* harmony import */ var core_js_modules_es_object_to_string_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_object_to_string_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var core_js_modules_web_dom_collections_for_each_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! core-js/modules/web.dom-collections.for-each.js */ \"./node_modules/core-js/modules/web.dom-collections.for-each.js\");\n/* harmony import */ var core_js_modules_web_dom_collections_for_each_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_web_dom_collections_for_each_js__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var core_js_modules_es_array_filter_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! core-js/modules/es.array.filter.js */ \"./node_modules/core-js/modules/es.array.filter.js\");\n/* harmony import */ var core_js_modules_es_array_filter_js__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_array_filter_js__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var core_js_modules_web_dom_collections_iterator_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! core-js/modules/web.dom-collections.iterator.js */ \"./node_modules/core-js/modules/web.dom-collections.iterator.js\");\n/* harmony import */ var core_js_modules_web_dom_collections_iterator_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_web_dom_collections_iterator_js__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var core_js_modules_es_array_includes_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! core-js/modules/es.array.includes.js */ \"./node_modules/core-js/modules/es.array.includes.js\");\n/* harmony import */ var core_js_modules_es_array_includes_js__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_array_includes_js__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var core_js_modules_es_string_includes_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! core-js/modules/es.string.includes.js */ \"./node_modules/core-js/modules/es.string.includes.js\");\n/* harmony import */ var core_js_modules_es_string_includes_js__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_string_includes_js__WEBPACK_IMPORTED_MODULE_6__);\n/* harmony import */ var core_js_modules_es_regexp_exec_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! core-js/modules/es.regexp.exec.js */ \"./node_modules/core-js/modules/es.regexp.exec.js\");\n/* harmony import */ var core_js_modules_es_regexp_exec_js__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_regexp_exec_js__WEBPACK_IMPORTED_MODULE_7__);\n/* harmony import */ var core_js_modules_es_string_match_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! core-js/modules/es.string.match.js */ \"./node_modules/core-js/modules/es.string.match.js\");\n/* harmony import */ var core_js_modules_es_string_match_js__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_string_match_js__WEBPACK_IMPORTED_MODULE_8__);\n/* harmony import */ var vue_i18n__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! vue-i18n */ \"./node_modules/vue-i18n/dist/vue-i18n.esm-bundler.js\");\n\n\n\n\n\n\n\n\n\n\nvar locale = Object({\"VUE_APP_BASE_URL\":\"https://vertex-ru-beta.herokuapp.com\",\"VUE_APP_SERVER_URL\":\"\",\"NODE_ENV\":\"development\",\"BASE_URL\":\"\"}).VUE_APP_I18N_LOCALE || 'ru';\n\nfunction loadLocaleMessages() {\n  var data = {};\n\n  var locales = __webpack_require__(\"./src/i18n sync recursive [A-Za-z0-9-_,\\\\s]+\\\\.json$/\");\n\n  locales.keys().filter(function (key) {\n    return key.includes(\"./\".concat(locale));\n  }).forEach(function (key) {\n    var matched = key.match(/([A-Za-z0-9-_]+)\\./i);\n\n    if (matched && matched.length > 1) {\n      data[matched[1]] = locales(key);\n    }\n  });\n  return Object(_Users_o_merguriev_USER_FILES_htdocs_git_qapint_com_vertex_ru_pharma_guru_client_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_0__[\"default\"])({}, locale, data);\n}\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Object(vue_i18n__WEBPACK_IMPORTED_MODULE_9__[\"createI18n\"])({\n  locale: Object({\"VUE_APP_BASE_URL\":\"https://vertex-ru-beta.herokuapp.com\",\"VUE_APP_SERVER_URL\":\"\",\"NODE_ENV\":\"development\",\"BASE_URL\":\"\"}).VUE_APP_I18N_LOCALE || 'ru',\n  messages: loadLocaleMessages()\n}));\n\n//# sourceURL=webpack:///./src/i18n/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _Users_o_merguriev_USER_FILES_htdocs_git_qapint_com_vertex_ru_pharma_guru_client_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/defineProperty */ \"./node_modules/@babel/runtime/helpers/esm/defineProperty.js\");\n/* harmony import */ var core_js_modules_es_object_to_string_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! core-js/modules/es.object.to-string.js */ \"./node_modules/core-js/modules/es.object.to-string.js\");\n/* harmony import */ var core_js_modules_es_object_to_string_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_object_to_string_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var core_js_modules_web_dom_collections_for_each_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! core-js/modules/web.dom-collections.for-each.js */ \"./node_modules/core-js/modules/web.dom-collections.for-each.js\");\n/* harmony import */ var core_js_modules_web_dom_collections_for_each_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_web_dom_collections_for_each_js__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var core_js_modules_es_array_filter_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! core-js/modules/es.array.filter.js */ \"./node_modules/core-js/modules/es.array.filter.js\");\n/* harmony import */ var core_js_modules_es_array_filter_js__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_array_filter_js__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var core_js_modules_web_dom_collections_iterator_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! core-js/modules/web.dom-collections.iterator.js */ \"./node_modules/core-js/modules/web.dom-collections.iterator.js\");\n/* harmony import */ var core_js_modules_web_dom_collections_iterator_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_web_dom_collections_iterator_js__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var core_js_modules_es_array_includes_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! core-js/modules/es.array.includes.js */ \"./node_modules/core-js/modules/es.array.includes.js\");\n/* harmony import */ var core_js_modules_es_array_includes_js__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_array_includes_js__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var core_js_modules_es_string_includes_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! core-js/modules/es.string.includes.js */ \"./node_modules/core-js/modules/es.string.includes.js\");\n/* harmony import */ var core_js_modules_es_string_includes_js__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_string_includes_js__WEBPACK_IMPORTED_MODULE_6__);\n/* harmony import */ var core_js_modules_es_regexp_exec_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! core-js/modules/es.regexp.exec.js */ \"./node_modules/core-js/modules/es.regexp.exec.js\");\n/* harmony import */ var core_js_modules_es_regexp_exec_js__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_regexp_exec_js__WEBPACK_IMPORTED_MODULE_7__);\n/* harmony import */ var core_js_modules_es_string_match_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! core-js/modules/es.string.match.js */ \"./node_modules/core-js/modules/es.string.match.js\");\n/* harmony import */ var core_js_modules_es_string_match_js__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_string_match_js__WEBPACK_IMPORTED_MODULE_8__);\n/* harmony import */ var vue_i18n__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! vue-i18n */ \"./node_modules/vue-i18n/dist/vue-i18n.esm-bundler.js\");\n\n\n\n\n\n\n\n\n\n\nvar locale = Object({\"VUE_APP_BASE_URL\":\"https://test1develop.github.io\",\"VUE_APP_SERVER_URL\":\"\",\"NODE_ENV\":\"development\",\"BASE_URL\":\"\"}).VUE_APP_I18N_LOCALE || 'ru';\n\nfunction loadLocaleMessages() {\n  var data = {};\n\n  var locales = __webpack_require__(\"./src/i18n sync recursive [A-Za-z0-9-_,\\\\s]+\\\\.json$/\");\n\n  locales.keys().filter(function (key) {\n    return key.includes(\"./\".concat(locale));\n  }).forEach(function (key) {\n    var matched = key.match(/([A-Za-z0-9-_]+)\\./i);\n\n    if (matched && matched.length > 1) {\n      data[matched[1]] = locales(key);\n    }\n  });\n  return Object(_Users_o_merguriev_USER_FILES_htdocs_git_qapint_com_vertex_ru_pharma_guru_client_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_0__[\"default\"])({}, locale, data);\n}\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Object(vue_i18n__WEBPACK_IMPORTED_MODULE_9__[\"createI18n\"])({\n  locale: Object({\"VUE_APP_BASE_URL\":\"https://test1develop.github.io\",\"VUE_APP_SERVER_URL\":\"\",\"NODE_ENV\":\"development\",\"BASE_URL\":\"\"}).VUE_APP_I18N_LOCALE || 'ru',\n  messages: loadLocaleMessages()\n}));\n\n//# sourceURL=webpack:///./src/i18n/index.js?");
 
 /***/ }),
 
